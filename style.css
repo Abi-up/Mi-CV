@@ -1,0 +1,38 @@
+.p1 {
+    background-color: #9ef1f1;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    font-size: 30px;
+    font-family: Verdana;
+    color: blue;
+    border: 2px solid black;
+}
+
+.p1 p {
+    align-items: center;
+    
+}
+
+.p2 {
+    background-color: aqua;
+}
+
+.p3 {
+    background-color: aqua;
+}
+
+.p4 {
+    background-color: aqua;
+} 
+
+.pie {
+    display: grid;
+    grid-template-columns: auto;
+    align-items: center;
+}
+
+body {
+    margin: 400px;
+}
